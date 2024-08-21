@@ -1,0 +1,15 @@
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\bin\Debug\net8.0\EjercicioProductoInterface.exe
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\bin\Debug\net8.0\EjercicioProductoInterface.deps.json
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\bin\Debug\net8.0\EjercicioProductoInterface.runtimeconfig.json
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\bin\Debug\net8.0\EjercicioProductoInterface.dll
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\bin\Debug\net8.0\EjercicioProductoInterface.pdb
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.AssemblyInfoInputs.cache
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.AssemblyInfo.cs
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.csproj.CoreCompileInputs.cache
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.sourcelink.json
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.dll
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\refint\EjercicioProductoInterface.dll
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.pdb
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\EjercicioProductoInterface.genruntimeconfig.cache
+C:\Users\pbenj\OneDrive\Desktop\Facultad\Programacion ll\EjerciciosProgra2\EjercicioProductoInterface\EjercicioProductoInterface\obj\Debug\net8.0\ref\EjercicioProductoInterface.dll
